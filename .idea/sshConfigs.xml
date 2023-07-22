@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="185.114.247.197" id="de19cced-8d30-4a6a-8767-04dd6c32429d" port="22" customName="TimeWeb" nameFormat="CUSTOM" username="co39748" useOpenSSHConfig="true">
+        <option name="customName" value="TimeWeb" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

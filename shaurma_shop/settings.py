@@ -75,8 +75,11 @@ WSGI_APPLICATION = 'shaurma_shop.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'HOST': 'localhost',
+        'NAME': 'ostadnuk',
+        'PROT': '3306',
+        'PASSWORD': '4j3l2n1xmysql',
     }
 }
 

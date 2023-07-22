@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="31e68d40-c4e3-4f6b-beb5-ace2d6d4e977" name="TimeWeb">
+        <fileTransfer accessType="SFTP" host="185.114.247.197" port="22" sshConfigId="de19cced-8d30-4a6a-8767-04dd6c32429d" sshConfig="TimeWeb">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b45acda4-c046-463a-94cc-fc4d24671825" name="TimeWebServer" url="http://185.114.247.197">
+        <fileTransfer host="185.114.247.197" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
