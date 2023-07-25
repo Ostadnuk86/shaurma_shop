@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'shaurma_shop.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'shaurma_shop',
-        'USER': 'ostadnuk',
-        'PASSWORD': '4j3l2n1xmysql',
+        'NAME': 'co39748_shaurmas',
+        'USER': 'co39748_shaurmas',
+        'PASSWORD': '4j3l2n1xBD',
         'HOST': 'localhost',
         'PROT': '3306',
 
