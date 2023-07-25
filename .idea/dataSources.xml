@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:mysql://localhost:3306/shaurma_shop</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="co39748_shaurmas@vh328.timeweb.ru" uuid="b639c599-f5b1-47c1-9449-a2020638af8b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://vh328.timeweb.ru:3306/co39748_shaurmas</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
